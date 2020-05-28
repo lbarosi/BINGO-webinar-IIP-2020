@@ -1,0 +1,28 @@
+/* this is for styling the overlay
+ * when using header / footer and backimage
+ *
+ * see metadata in notebook
+ */
+
+/* #rise-header {
+    margin: 10px;
+    left: 10%;
+    min-width: 80%;
+}
+
+#rise-footer {
+    margin: 10px;
+    right: 10%;
+    min-width: 30%;
+}*/
+
+#rise-backimage {
+     height: 50px;
+     width: 50px;
+     opacity: 20%;
+     max-width: 60%;
+}
+
+/* TODO: maybe we need to port this to main.css?  */.rise img {
+    max-width: 100%;
+}*/
